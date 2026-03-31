@@ -1,28 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=>>+Initializing+Rohan...;>>+Hologram+Interface+Loaded;>>+Welcome+to+Rohan1510" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=>>+Booting+Rohan1510;>>+Cyberpunk+Developer;>>+AWS+%7C+.NET+%7C+Full+Stack" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0ff&height=200&section=header&text=ROHAN%20SYSTEM&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
----
-
-## 🧠 HOLOGRAM CORE
-
-<p align="center">
+## 🧠 SYSTEM PROFILE
 
 ```diff
 + USER: Rohan1510
-+ STATUS: ONLINE
-+ MODE: HOLOGRAPHIC INTERFACE
 + ROLE: Full Stack Developer
-+ STACK: AWS | .NET | Web Systems
++ STACK: HTML | CSS | JS | Python | Java | C#
++ SPECIAL: AWS ☁️ | .NET ⚙️
++ STATUS: ONLINE ⚡
 ```
-
-</p>
 
 ---
 
@@ -34,24 +24,23 @@
 
 ---
 
-## 🚀 ACTIVE MODULES
+## 🚀 PROJECT ZONE
 
-<p align="center">
+🔹 **Tic Tac Toe**
+→ JavaScript-based game logic
 
-| PROJECT      | TYPE       | STATUS    |
-| ------------ | ---------- | --------- |
-| Tic Tac Toe  | JavaScript | 🟢 Active |
-| Portfolio    | HTML/CSS   | 🟢 Active |
-| GitHub Pages | Static Web | 🟢 Live   |
+🔹 **Portfolio Website**
+→ Personal branding site
 
-</p>
+🔹 **GitHub Pages Site**
+→ Live hosted web app
 
 ---
 
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan1510&show_icons=true&theme=transparent&title_color=00F7FF&text_color=00F7FF&icon_color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan1510&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,12 +48,12 @@
 ## 🧬 LANGUAGE CORE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1510&layout=compact&theme=transparent&title_color=00F7FF&text_color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1510&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 LIVE GRID SYSTEM
+## 🐍 LIVE ACTIVITY GRID
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -72,21 +61,9 @@
 
 ---
 
-## 🌐 CONNECT
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</p>
-
----
-
-## ⚠️ SYSTEM MESSAGE
-
-<p align="center">
+## ⚠️ FINAL MESSAGE
 
 ```diff
-- This is not a profile
-+ This is a hologram interface
+- Normal developer
++ Cyberpunk system architect ⚡
 ```
-
-</p>
