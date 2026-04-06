@@ -1,114 +1,96 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohan%20Krishna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Cloud%20%26%20DevOps%20%7C%20ML%20Engineer&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" />
+# Surapaneni Rohan Krishna
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Full+Stack+%E2%86%92+Cloud+%E2%86%92+ML;Node.js+%7C+PostgreSQL+%7C+AWS+%7C+.NET;Vision+Transformers+%26+Conformal+Prediction;Based+in+Hyderabad+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+### ☁️ Cloud & DevOps Engineer · Full-Stack Developer · ML Practitioner
 
-<br/>
-
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=Rohan1510&color=7c3aed&style=flat-square&label=Profile+Views)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=firefox&logoColor=white)](https://rohankrishna150.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan1510)
+[![Email](https://img.shields.io/badge/Email-rohankrishna150%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohankrishna150@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```yaml
-name        : Surapaneni Rohan Krishna
-location    : Hyderabad, India 🇮🇳
-role        : Full Stack + Cloud/DevOps + ML Engineer
-status      : Building, learning, shipping
+I'm a final-year CS undergrad at SRM University AP with an **AWS Certified Cloud Practitioner** credential and hands-on experience building cloud-native systems, DevOps pipelines, and full-stack applications.
 
-currently:
-  - Developing FleetCareServices — Node.js + PostgreSQL fleet management app
-  - Researching uncertainty-aware skin lesion classification (ViT + Conformal Prediction)
-  - Exploring AWS cloud architecture & DevOps pipelines
-  - Diving deeper into .NET modernization patterns
+I gravitate toward **security-first design** — whether that's end-to-end encrypted messaging, least-privilege IAM policies, or encrypted serverless architectures. I'm actively seeking an entry-level **Cloud / DevOps** role where I can ship reliable, scalable infrastructure.
 
-interests:
-  - AI/ML systems with real-world clinical applications
-  - Scalable backend architecture
-  - Security research & bug bounty
-  - IPL cricket analytics (yes, that too)
-```
+- 🌍 Based in Hyderabad, India
+- ☁️ Certified on AWS — hands-on with Lambda, S3, Cognito, CloudFront, Amplify, RDS
+- 🔐 Interested in cryptography, secure system design, and zero-trust architectures
+- 🤖 Parallel interest in ML — working on uncertainty-aware Vision Transformer ensembles
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Cloud & DevOps**
+`AWS` `Docker` `CI/CD Pipelines` `Infrastructure-as-Code` `Linux` `Git`
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+**Languages**
+`Python` `JavaScript` `Java` `C++`
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Databases**
+`PostgreSQL` `MySQL`
 
-### ML & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Security**
+`End-to-End Encryption` `ECDH` `AES-GCM` `Least-Privilege IAM`
 
-### Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**ML / AI**
+`PyTorch` `HuggingFace` `Vision Transformers` `Conformal Prediction`
+
+**Web**
+`Node.js` `React` `ASP.NET WebForms`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚛 FleetCareServices
-> Full-stack fleet management web application
+### ☁️ [Serverless Blog with Markdown Editor](https://github.com/Rohan1510)
+> AWS · React · Amplify · S3 · CloudFront · Cognito
 
-- Built with **Node.js**, **Express**, and **PostgreSQL**
-- Handles vehicle tracking, maintenance scheduling, and service records
-- Features authentication, role-based access, and real-time DB queries
-- Stack: `Node.js` `PostgreSQL` `HTML/CSS/JS`
+A fully serverless blog platform with user authentication, Markdown-based content creation, and global CDN-backed delivery. Demonstrates end-to-end AWS architecture — from auth (Cognito) to storage (S3) to edge distribution (CloudFront).
 
 ---
 
-### 🧬 Uncertainty-Aware Skin Lesion Classifier
-> ML research project — clinical AI with calibrated uncertainty
+### 🔐 [Private Chat v1 — End-to-End Encrypted Messaging](https://github.com/Rohan1510)
+> JavaScript · Web Crypto API · ECDH · AES-GCM
 
-- Ensemble of **Vision Transformers (ViT)** trained on HAM10000 / ISIC datasets
-- Implements **Conformal Prediction** for statistically guaranteed uncertainty estimates
-- Designed for real-world dermatology screening use cases
-- Stack: `Python` `PyTorch` `HuggingFace` `scikit-learn`
+Peer-to-peer encrypted messaging with ECDH key exchange and AES-GCM encryption. Includes identity verification, secure session establishment, disconnect handling, and a clearly defined threat model with strict trust boundaries.
 
 ---
 
-### 🔒 PrivateLink
-> Secure private URL sharing tool
+### 🐛 [FleetCareServices](https://github.com/Rohan1510)
+> Node.js · PostgreSQL · Express
 
-- JavaScript-based link privacy layer
-- Hosted live via GitHub Pages
-- Stack: `JavaScript` `HTML` `CSS`
+Full-stack fleet management backend. Debugged and extended a production Node.js/PostgreSQL application — resolved auth logic issues, fixed module resolution bugs, and improved service architecture.
 
 ---
 
-### 🌐 Portfolio
-> Personal portfolio website — [rohan1510.github.io](https://rohan1510.github.io)
+### 🔬 Vision Transformer Ensemble — Skin Lesion Classification *(Research)*
+> PyTorch · HuggingFace · HAM10000 · ISIC · Conformal Prediction
 
-- Cloud & DevOps engineer showcase
-- Deployed via GitHub Pages
-- Stack: `HTML` `CSS` `JavaScript`
+Uncertainty-aware ensemble of ViT models for dermatological classification. Incorporates conformal prediction for calibrated confidence estimates — bridging the gap between ML outputs and clinical trustworthiness.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2024 |
+
+---
+
+## 💼 Experience
+
+**Bharat Dynamics Limited (BDL)** · Software Intern · *Jun – Jul 2024*
+
+Designed and developed an **Online Inspection Memo System** to digitize inspection workflows at a defense PSU. Built with Java (DAO pattern), MySQL (role-based access control, optimized queries), and a JavaScript/HTML/CSS frontend.
 
 ---
 
@@ -116,39 +98,22 @@ interests:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rohan1510&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan1510&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rohan1510&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1510&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🐍 Contribution Grid
+## 📫 Let's Connect
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+I'm open to **Cloud / DevOps roles**, **backend engineering**, and interesting **open-source contributions**.
 
----
-
-## 🔍 Currently Exploring
-
-- 🧠 Conformal prediction sets for multi-class medical imaging
-- ☁️ AWS Lambda + API Gateway serverless patterns
-- 🔐 Web application security (OWASP Top 10, ASP.NET WebForms vulns)
-- ⚡ Go as a Node.js alternative for low-latency backend services
-- 📱 React component architecture for scalable frontends
+Reach me at [rohankrishna150@gmail.com](mailto:rohankrishna150@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/rohan1510).
 
 ---
 
 <div align="center">
-
-*"Ship it, learn from it, improve it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
+<sub>Last updated: 2026 · SRM University AP · B.Tech Computer Science</sub>
 </div>
