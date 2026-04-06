@@ -94,15 +94,9 @@ Designed and developed an **Online Inspection Memo System** to digitize inspecti
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan1510&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1510&layout=compact&theme=default&hide_border=true)
-
-</div>
+[→ View my repositories](https://github.com/Rohan1510?tab=repositories)
 
 ---
 
